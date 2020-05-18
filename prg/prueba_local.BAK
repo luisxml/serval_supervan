@@ -79,7 +79,7 @@ Vgc_usuario="12345678"
 *Vgc_usuario="1"
 Vgc_clic =0
 Vgn_opt=1
-Vgn_tipousu=3
+Vgn_tipousu=5
 
 ****VERIFICAR EL SERIAL DEL DISCO
 	Vlc_disco = LEFT( lcAppDir, 2)
@@ -146,7 +146,8 @@ Vgn_tipousu=3
 		SET EXACT ON 		
 		IF nTamaño2 > 0 	
 			SELECT NOTAS_REPORTES
-			LOCATE FOR NOTA_1 = ALLTRIM(Vlc_llave_desencriptada) AND  NOTA_2 = ALLTRIM(Vlc_mac_encriptada) AND active = .t.
+			*LOCATE FOR NOTA_1 = ALLTRIM(Vlc_llave_desencriptada) AND  NOTA_2 = ALLTRIM(Vlc_mac_encriptada) AND active = .t.
+			LOCATE FOR NOTA_1 = ALLTRIM(Vlc_llave_desencriptada) AND  REPORTE_1 = (lcSerialNumber) AND active = .t.
 			IF FOUND()								
 				USE IN NOTAS_REPORTES
 				USE IN LLAVE_DES					
@@ -159,7 +160,8 @@ Vgn_tipousu=3
 			ENDIF
 		ELSE
 			SELECT NOTAS_REPORTES
-			LOCATE FOR NOTA_2 = ALLTRIM(Vlc_mac_encriptada) AND active = .t.
+			*LOCATE FOR NOTA_2 = ALLTRIM(Vlc_mac_encriptada) AND active = .t.
+			LOCATE FOR REPORTE_1 = (lcSerialNumber) AND active = .t.
 			IF FOUND()
 				Vlc_NOTA_1 = ALLTRIM(NOTA_1)
 				lsql="select dbo.fn_encripta(?Vlc_NOTA_1) as llave_encriptada"
