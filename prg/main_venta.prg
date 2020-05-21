@@ -72,6 +72,8 @@ MODIFY WINDOWS SCREEN TITLE ".:: SERVAL - SISTEMA DE GESTION ::."
 PUBLIC lcAppDir,Vgc_almatrab,Vgc_usuario,nres,Vpc_server,Vgc_impresora,Vgc_impresora2,Vgc_version  
 PUBLIC Vlc_numbl,Vlc_numcont,Vlc_nombrebuque,Vlc_numviaje,Vlc_fechaatr,Vgc_cliente2,Vgc_cambiom,Vpc_nuevafecha,Vpn_fecha_desde2,Vpn_fecha_hasta2,Vgc_clic,Vgn_opt,Vgc_cliente2,conex,Vgn_tipousu,lcConnect
 PUBLIC Vgc_clic,Vgn_opt,Vgc_cliente2,conex,Vgn_tipousu,Vgc_serie,Vgc_nomb_usu,Vgn_actual,fg_conectado,Vgn_super_user,VPC_llave,Vgc_caja,caja 
+PUBLIC Vgn_id_os
+Vgn_id_os = 0
 Vgn_super_user=0
 fg_conectado=0
 Vgn_actual=0

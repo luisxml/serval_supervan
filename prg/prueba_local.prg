@@ -4,6 +4,8 @@ PUBLIC lcAppDir,Vgc_almatrab,Vgc_usuario,nres,Vln_romana,Vpn_bascula,Vgn_romana,
 PUBLIC Vlc_numbl,Vlc_numcont,Vlc_nombrebuque,Vlc_numviaje,Vlc_fechaatr,Vgc_cliente2,Vgc_cambiom,Vpc_nuevafecha,Vpn_fecha_desde2,Vpn_fecha_hasta2,Vgc_clic,Vgn_opt,Vgc_cliente2,conex,Vgn_tipousu,lcConnect
 PUBLIC Vgc_clic,Vgn_opt,Vgc_cliente2,conex,Vgn_tipousu,Vgc_serie,Vgc_nomb_usu,Vgn_actual,fg_conectado,Vgn_super_user,Conex,Vgc_server,Vgc_bd,Vgc_ip_lector,Vpn_min,Vpn_max
 PUBLIC Vgn_bascula,Vgc_CERTIFICACION_INEA, VGC_VERSION,Vcl_conex,VPC_llave,Vgc_caja,Vgc_impresora,Vgc_impresora2 
+PUBLIC Vgn_id_os
+Vgn_id_os = 0
 *SET STEP ON
 SET PATH TO "data,formularios,ing,ico,botones,clase,prg,reportes,archivos,menu"
 Conex=0
@@ -79,7 +81,7 @@ Vgc_usuario="12345678"
 *Vgc_usuario="1"
 Vgc_clic =0
 Vgn_opt=1
-Vgn_tipousu=13
+Vgn_tipousu=3
 
 ****VERIFICAR EL SERIAL DEL DISCO
 	Vlc_disco = LEFT( lcAppDir, 2)
