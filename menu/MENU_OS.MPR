@@ -1,6 +1,6 @@
 *       *********************************************************
 *       *                                                         
-*       * 06/26/20             MENU_OS.MPR              12:32:56  
+*       * 24/07/2020            MENU_OS.MPR             18:00:31  
 *       *                                                         
 *       *********************************************************
 *       *                                                         
@@ -27,9 +27,9 @@
 SET SYSMENU TO
 SET SYSMENU AUTOMATIC
 
-DEFINE PAD _5su0qwaih OF _MSYSMENU PROMPT "Agregar Guia" COLOR SCHEME 3 ;
+DEFINE PAD _5tm12lk7u OF _MSYSMENU PROMPT "Agregar Guia" COLOR SCHEME 3 ;
 	KEY ALT+A, ""
-DEFINE PAD _5su0qwaii OF _MSYSMENU PROMPT "Anular Orden" COLOR SCHEME 3 ;
+DEFINE PAD _5tm12lk7v OF _MSYSMENU PROMPT "Anular Orden" COLOR SCHEME 3 ;
 	KEY ALT+A, ""
-DEFINE PAD _5su0qwaij OF _MSYSMENU PROMPT "Confirmar Orden" COLOR SCHEME 3 ;
+DEFINE PAD _5tm12lk7w OF _MSYSMENU PROMPT "Confirmar Orden" COLOR SCHEME 3 ;
 	KEY ALT+C, ""
