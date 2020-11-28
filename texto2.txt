@@ -1,47 +1,48 @@
-Número de RUC: 20548959765 - ECO BIRRAK SOCIEDAD ANONIMA CERRADA-ECO BIRRAK S.A.C.
+Número de RUC: 20601694981 - GHCORP SOCIEDAD ANONIMA CERRADA
 Tipo Contribuyente: SOCIEDAD ANONIMA CERRADA
-Nombre Comercial: -
-Fecha de Inscripción: 25/07/2012Fecha de Inicio de Actividades:25/07/2012
+Nombre Comercial: GHCORP S.A.C.
+Fecha de Inscripción: 30/11/2016Fecha de Inicio de Actividades:01/12/2016
 Estado del Contribuyente: ACTIVO
 Condición del Contribuyente:HABIDO 
-Dirección del Domicilio Fiscal:AV. LA PAZ NRO. 676 PROV. CONST. DEL CALLAO - PROV. CONST. DEL CALLAO - LA PERLA
+Dirección del Domicilio Fiscal:AV. PRIMERO DE MAYO NRO. SN URB. LA RIVERA (FACHADA BLANCA-FTE AL CASTILLO CHANCAY) LIMA - HUARAL - CHANCAY
 Sistema de Emisión de Comprobante:MANUALActividad de Comercio Exterior:SIN ACTIVIDAD
-Sistema de Contabilidad:COMPUTARIZADO
-Actividad(es) Económica(s): 0810 - EXTRACCIÓN DE PIEDRA, ARENA Y ARCILLA 5210 - ALMACENAMIENTO Y DEPÓSITO 9609 - OTRAS ACTIVIDADES DE SERVICIOS PERSONALES N.C.P. 
-Comprobantes de Pago c/aut. de impresión (F. 806 u 816):  FACTURA BOLETA DE VENTA NOTA DE CREDITO GUIA DE REMISION - REMITENTE 
-Sistema de Emision Electronica:  FACTURA PORTAL DESDE 03/01/2018 
-Emisor electrónico desde: 03/01/2018
-Comprobantes Electrónicos: FACTURA (desde 03/01/2018)
-Afiliado al PLE desde: 01/01/2016 
-Padrones : NINGUNO 
-CONSULTA RUC: 20548959765 - ECO BIRRAK SOCIEDAD ANONIMA CERRADA-ECO BIRRAK S.A.C.
-Número de RUC: 20548959765 - ECO BIRRAK SOCIEDAD ANONIMA CERRADA-ECO BIRRAK S.A.C.
+Sistema de Contabilidad:MANUAL
+Actividad(es) Económica(s): 0146 - CRÍA DE AVES DE CORRAL 
+Comprobantes de Pago c/aut. de impresión (F. 806 u 816):  FACTURA BOLETA DE VENTA NOTA DE CREDITO GUIA DE REMISION - REMITENTE COMPROBANTE DE RETENCION 
+Sistema de Emision Electronica:  FACTURA PORTAL DESDE 22/05/2019 DESDE LOS SISTEMAS DEL CONTRIBUYENTE. AUTORIZ DESDE 21/02/2017 
+Emisor electrónico desde: 21/02/2017
+Comprobantes Electrónicos: FACTURA (desde 21/02/2017),BOLETA (desde 21/02/2017)
+Afiliado al PLE desde: 17/01/2017 
+Padrones : Incorporado al Régimen de Agentes de Retención de IGV (R.S.182-2018) a partir del 01/09/2018 
+CONSULTA RUC: 20601694981 - GHCORP SOCIEDAD ANONIMA CERRADA
+Número de RUC: 20601694981 - GHCORP SOCIEDAD ANONIMA CERRADA
 Tipo Contribuyente: SOCIEDAD ANONIMA CERRADA
-Nombre Comercial: -
-Fecha de Inscripción: 25/07/2012Fecha Inicio de Actividades:25/07/2012
+Nombre Comercial: GHCORP S.A.C.
+Fecha de Inscripción: 30/11/2016Fecha Inicio de Actividades:01/12/2016
 Estado del Contribuyente: ACTIVO
 Condición del Contribuyente:HABIDO 
-Dirección del Domicilio Fiscal:AV. LA PAZ NRO. 676 PROV. CONST. DEL CALLAO - PROV. CONST. DEL CALLAO - LA PERLA
+Dirección del Domicilio Fiscal:AV. PRIMERO DE MAYO NRO. SN URB. LA RIVERA (FACHADA BLANCA-FTE AL CASTILLO CHANCAY) LIMA - HUARAL - CHANCAY
 Sistema de Emisión de Comprobante:MANUALActividad de Comercio Exterior:SIN ACTIVIDAD
-Sistema de Contabilidad:COMPUTARIZADO
-Actividad(es) Económica(s):Principal - 0810 - EXTRACCIÓN DE PIEDRA, ARENA Y ARCILLA
-Secundaria 1 - 5210 - ALMACENAMIENTO Y DEPÓSITO
-Secundaria 2 - 9609 - OTRAS ACTIVIDADES DE SERVICIOS PERSONALES N.C.P.
+Sistema de Contabilidad:MANUAL
+Actividad(es) Económica(s):Principal - 0146 - CRÍA DE AVES DE CORRAL
 
 Comprobantes de Pago c/aut. de impresión (F. 806 u 816): 
 FACTURA 
 BOLETA DE VENTA 
 NOTA DE CREDITO 
 GUIA DE REMISION - REMITENTE 
+COMPROBANTE DE RETENCION 
 Sistema de Emisión Electrónica: 
-FACTURA PORTAL DESDE 03/01/2018 
-Afiliado al PLE desde: 01/01/2016 
-Padrones :NINGUNO 
+FACTURA PORTAL DESDE 22/05/2019 
+DESDE LOS SISTEMAS DEL CONTRIBUYENTE. AUTORIZ DESDE 21/02/2017 
+Afiliado al PLE desde: 17/01/2017 
+Padrones :Incorporado al Régimen de Agentes de Retención de IGV (R.S.182-2018) a partir del 01/09/2018
+
 
 
                 
-            
-    
+                
+        
  Version Imprimible 
 
         e-mail   
