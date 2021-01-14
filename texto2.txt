@@ -1,57 +1,43 @@
-Número de RUC: 20601694981 - GHCORP SOCIEDAD ANONIMA CERRADA
+CONSULTA RUC
+
+RESULTADO DE BÚSQUEDA:
+
+
+RUC: 20601751438 - INVERSIONES GAVIDIA S.A.C.
 Tipo Contribuyente: SOCIEDAD ANONIMA CERRADA
-Nombre Comercial: GHCORP S.A.C.
-Fecha de Inscripción: 30/11/2016Fecha de Inicio de Actividades:01/12/2016
-Estado del Contribuyente: ACTIVO
-Condición del Contribuyente:HABIDO 
-Dirección del Domicilio Fiscal:AV. PRIMERO DE MAYO NRO. SN URB. LA RIVERA (FACHADA BLANCA-FTE AL CASTILLO CHANCAY) LIMA - HUARAL - CHANCAY
-Sistema de Emisión de Comprobante:MANUALActividad de Comercio Exterior:SIN ACTIVIDAD
-Sistema de Contabilidad:MANUAL
-Actividad(es) Económica(s): 0146 - CRÍA DE AVES DE CORRAL 
-Comprobantes de Pago c/aut. de impresión (F. 806 u 816):  FACTURA BOLETA DE VENTA NOTA DE CREDITO GUIA DE REMISION - REMITENTE COMPROBANTE DE RETENCION 
-Sistema de Emision Electronica:  FACTURA PORTAL DESDE 22/05/2019 DESDE LOS SISTEMAS DEL CONTRIBUYENTE. AUTORIZ DESDE 21/02/2017 
-Emisor electrónico desde: 21/02/2017
-Comprobantes Electrónicos: FACTURA (desde 21/02/2017),BOLETA (desde 21/02/2017)
-Afiliado al PLE desde: 17/01/2017 
-Padrones : Incorporado al Régimen de Agentes de Retención de IGV (R.S.182-2018) a partir del 01/09/2018 
-CONSULTA RUC: 20601694981 - GHCORP SOCIEDAD ANONIMA CERRADA
-Número de RUC: 20601694981 - GHCORP SOCIEDAD ANONIMA CERRADA
+Nombre Comercial: -
+Fecha de Inscripción: 23/12/2016
+Estado: ACTIVO
+Condición:HABIDO 
+Domicilio Fiscal:AV. ALBORADA NRO. 1577 INT. 2 URB. AVEP 1RA ETAPA- PISO 2 (ALT. CDRA 14 MARIANO CORNEJO) LIMA - LIMA - LIMA
+Actividad(es) Económica(s): Principal - CIIU 28111 - FAB. PROD. METAL. USO ESTRUCTURAL. Secundaria 1 - CIIU 74218 - ACTIV.DE ARQUITECTURA E INGENIERIA 
+Comprobantes de Pago c/aut. de impresión (F. 806 u 816): FACTURA NOTA DE CREDITO NOTA DE DEBITO GUIA DE REMISION - REMITENTE 
+Sistema de Emisión Electrónica:  FACTURA PORTAL DESDE 12/01/2018 BOLETA PORTAL DESDE 31/12/2019 
+Afiliado al PLE desde: - 
+Padrones : NINGUNO 
+CONSULTA RUC: 20601751438 - INVERSIONES GAVIDIA S.A.C.
+RUC: 20601751438 - INVERSIONES GAVIDIA S.A.C.
 Tipo Contribuyente: SOCIEDAD ANONIMA CERRADA
-Nombre Comercial: GHCORP S.A.C.
-Fecha de Inscripción: 30/11/2016Fecha Inicio de Actividades:01/12/2016
-Estado del Contribuyente: ACTIVO
-Condición del Contribuyente:HABIDO 
-Dirección del Domicilio Fiscal:AV. PRIMERO DE MAYO NRO. SN URB. LA RIVERA (FACHADA BLANCA-FTE AL CASTILLO CHANCAY) LIMA - HUARAL - CHANCAY
-Sistema de Emisión de Comprobante:MANUALActividad de Comercio Exterior:SIN ACTIVIDAD
-Sistema de Contabilidad:MANUAL
-Actividad(es) Económica(s):Principal - 0146 - CRÍA DE AVES DE CORRAL
+Nombre Comercial: -
+Fecha de Inscripción: 23/12/2016Fecha Inicio de Actividades:23/12/2016
+Estado: ACTIVO
+Condición:HABIDO 
+Domicilio Fiscal:AV. ALBORADA NRO. 1577 INT. 2 URB. AVEP 1RA ETAPA- PISO 2 (ALT. CDRA 14 MARIANO CORNEJO) LIMA - LIMA - LIMA
+Teléfono(s):- 
+Actividad(es) Económica(s):Principal - 28111 - FAB. PROD. METAL. USO ESTRUCTURAL.
+Secundaria 1 - 74218 - ACTIV.DE ARQUITECTURA E INGENIERIA
 
 Comprobantes de Pago c/aut. de impresión (F. 806 u 816): 
 FACTURA 
-BOLETA DE VENTA 
 NOTA DE CREDITO 
+NOTA DE DEBITO 
 GUIA DE REMISION - REMITENTE 
-COMPROBANTE DE RETENCION 
-Sistema de Emisión Electrónica: 
-FACTURA PORTAL DESDE 22/05/2019 
-DESDE LOS SISTEMAS DEL CONTRIBUYENTE. AUTORIZ DESDE 21/02/2017 
-Afiliado al PLE desde: 17/01/2017 
-Padrones :Incorporado al Régimen de Agentes de Retención de IGV (R.S.182-2018) a partir del 01/09/2018
+Padrones :NINGUNO 
 
 
 
-                
-                
-        
- Version Imprimible 
-
-        e-mail   
-
-
-Por favor espere un momento...
-
-
-
-
-Copyright © SUNAT 1997 - 2020
  
+
+
+
+Copyright © SUNAT 2010 - 2021
