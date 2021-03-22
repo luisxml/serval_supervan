@@ -17,7 +17,7 @@
 <TD></TD></TR></TBODY></TABLE></TD></TR>
 <TR>
 <TD class=bgn width="18%">RUC: </TD>
-<TD class=bg colSpan=3>20601751438 - INVERSIONES GAVIDIA S.A.C.</TD></TR>
+<TD class=bg colSpan=3>20509031500 - RENTING S.A.C.</TD></TR>
 <TR>
 <TD class=bgn>Tipo Contribuyente: </TD>
 <TD class=bg colSpan=3>SOCIEDAD ANONIMA CERRADA</TD></TR>
@@ -26,7 +26,7 @@
 <TD class=bg>-</TD></TR>
 <TR>
 <TD class=bgn>Fecha de Inscripción: </TD>
-<TD class=bg>23/12/2016</TD>
+<TD class=bg>02/07/2004</TD>
 <TD class=bg colSpan=2></TD><!--          <td width="27%" colspan=1 class="bgn">Fecha de Inicio de Actividades:</td>
               <td class="bg" colspan=1> ***** </td> --></TR>
 <TR>
@@ -38,7 +38,7 @@
 <TD class=bg colSpan=3>HABIDO </TD></TR>
 <TR>
 <TD class=bgn>Domicilio Fiscal:</TD>
-<TD class=bg colSpan=3>AV. ALBORADA NRO. 1577 INT. 2 URB. AVEP 1RA ETAPA- PISO 2 (ALT. CDRA 14 MARIANO CORNEJO) LIMA - LIMA - LIMA</TD></TR><!--  PAS20134EA20000249<tr>--><!--  PAS20134EA20000249<td class="bgn" colspan=1>Tel&eacute;fono(s):</td>--><!--  PAS20134EA20000249<td class="bg" colspan=1>- </td>--><!--  PAS20134EA20000249<td class="bgn" colspan=2></td>--><!--          <td class="bgn" colspan=1>Fax:</td>
+<TD class=bg colSpan=3>AV. DOMINGO ORUE NRO. 230 LIMA - LIMA - SURQUILLO</TD></TR><!--  PAS20134EA20000249<tr>--><!--  PAS20134EA20000249<td class="bgn" colspan=1>Tel&eacute;fono(s):</td>--><!--  PAS20134EA20000249<td class="bg" colspan=1>- </td>--><!--  PAS20134EA20000249<td class="bgn" colspan=2></td>--><!--          <td class="bgn" colspan=1>Fax:</td>
               <td class="bg" colspan=1>
               *********
               </td>   --><!--  PAS20134EA20000249</tr>--><!--    <tr>
@@ -57,29 +57,29 @@
  -->
 <TR>
 <TD class=bgn>Actividad(es) Económica(s):</TD>
-<TD class=bg colSpan=3><SELECT name=select> <OPTION selected value=00>Principal - CIIU 28111 - FAB. PROD. METAL. USO ESTRUCTURAL.</OPTION> <OPTION value=00>Secundaria 1 - CIIU 74218 - ACTIV.DE ARQUITECTURA E INGENIERIA</OPTION></SELECT> </TD></TR>
+<TD class=bg colSpan=3><SELECT name=select> <OPTION selected value=00>Principal - CIIU 60230 - TRANSPORTE DE CARGA POR CARRETERA.</OPTION> <OPTION value=00>Secundaria 1 - CIIU 71118 - ALQUILER EQUIPO TRANSPORTE V. TERRES.</OPTION></SELECT> </TD></TR>
 <TR>
 <TD class=bgn>Comprobantes de Pago c/aut. de impresión (F. 806 u 816):</TD>
-<TD class=bg colSpan=3><SELECT name=select> <OPTION selected value=00>FACTURA</OPTION> <OPTION value=00>NOTA DE CREDITO</OPTION> <OPTION value=00>NOTA DE DEBITO</OPTION> <OPTION value=00>GUIA DE REMISION - REMITENTE</OPTION></SELECT> </TD></TR><!--  PCR Inicio Cambios  -->
+<TD class=bg colSpan=3><SELECT name=select> <OPTION selected value=00>FACTURA</OPTION> <OPTION value=00>BOLETA DE VENTA</OPTION> <OPTION value=00>NOTA DE CREDITO</OPTION> <OPTION value=00>NOTA DE DEBITO</OPTION> <OPTION value=00>GUIA DE REMISION - REMITENTE</OPTION> <OPTION value=00>GUIA DE REMISION - TRANSPORTISTA</OPTION></SELECT> </TD></TR><!--  PCR Inicio Cambios  -->
 <TR>
 <TD class=bgn>Sistema de Emisión Electrónica: </TD>
-<TD class=bg colSpan=3><SELECT name=select> <OPTION selected value=00>FACTURA PORTAL DESDE 12/01/2018</OPTION> <OPTION value=00>BOLETA PORTAL DESDE 31/12/2019</OPTION></SELECT> </TD></TR>
+<TD class=bg colSpan=3><SELECT name=select> <OPTION selected value=00>DESDE LOS SISTEMAS DEL CONTRIBUYENTE. AUTORIZ DESDE 01/07/2016</OPTION></SELECT> </TD></TR>
 <TR>
 <TD class=bgn>Afiliado al PLE desde: </TD>
-<TD class=bg colSpan=3>- </TD></TR><!--  PCR Fin Cambios     -->
+<TD class=bg colSpan=3>01/01/2013 </TD></TR><!--  PCR Fin Cambios     -->
 <TR>
 <TD class=bgn>Padrones :</TD>
-<TD class=bg colSpan=3><SELECT name=select> <OPTION selected value=00>NINGUNO</OPTION></SELECT> 
+<TD class=bg colSpan=3><SELECT name=select> <OPTION selected value=00>Incorporado al Régimen de Agentes de Retención de IGV (R.S.228-2012) a partir del 01/11/2012</OPTION></SELECT> 
 <DIV id=print style="DISPLAY: none">
 <TABLE class=form-table cellSpacing=2 cellPadding=3 width="100%">
 <TBODY>
 <TR>
-<TD class=t1><FONT size=2>CONSULTA RUC: 20601751438 - INVERSIONES GAVIDIA S.A.C.</FONT></TD></TR></TBODY></TABLE>
+<TD class=t1><FONT size=2>CONSULTA RUC: 20509031500 - RENTING S.A.C.</FONT></TD></TR></TBODY></TABLE>
 <TABLE class=form-table cellSpacing=3 cellPadding=2 width="100%" border=0>
 <TBODY>
 <TR>
 <TD class=bgn width="18%">RUC: </TD>
-<TD class=bg colSpan=3>20601751438 - INVERSIONES GAVIDIA S.A.C.</TD></TR>
+<TD class=bg colSpan=3>20509031500 - RENTING S.A.C.</TD></TR>
 <TR>
 <TD class=bgn>Tipo Contribuyente: </TD>
 <TD class=bg colSpan=3>SOCIEDAD ANONIMA CERRADA</TD></TR>
@@ -88,9 +88,9 @@
 <TD class=bg>-</TD></TR>
 <TR>
 <TD class=bgn>Fecha de Inscripción: </TD>
-<TD class=bg>23/12/2016</TD>
+<TD class=bg>02/07/2004</TD>
 <TD class=bgn width="27%">Fecha Inicio de Actividades:</TD>
-<TD class=bg>23/12/2016</TD></TR>
+<TD class=bg>02/07/2004</TD></TR>
 <TR>
 <TD class=bgn>Estado: </TD>
 <TD class=bg>ACTIVO</TD>
@@ -100,7 +100,7 @@
 <TD class=bg colSpan=3>HABIDO </TD></TR>
 <TR>
 <TD class=bgn>Domicilio Fiscal:</TD>
-<TD class=bg colSpan=3>AV. ALBORADA NRO. 1577 INT. 2 URB. AVEP 1RA ETAPA- PISO 2 (ALT. CDRA 14 MARIANO CORNEJO) LIMA - LIMA - LIMA</TD></TR>
+<TD class=bg colSpan=3>AV. DOMINGO ORUE NRO. 230 LIMA - LIMA - SURQUILLO</TD></TR>
 <TR>
 <TD class=bgn>Teléfono(s):</TD>
 <TD class=bg>- </TD>
@@ -127,13 +127,13 @@
 -->
 <TR>
 <TD class=bgn>Actividad(es) Económica(s):</TD>
-<TD class=bg colSpan=3>Principal - 28111 - FAB. PROD. METAL. USO ESTRUCTURAL.<BR>Secundaria 1 - 74218 - ACTIV.DE ARQUITECTURA E INGENIERIA<BR></TD></TR>
+<TD class=bg colSpan=3>Principal - 60230 - TRANSPORTE DE CARGA POR CARRETERA.<BR>Secundaria 1 - 71118 - ALQUILER EQUIPO TRANSPORTE V. TERRES.<BR></TD></TR>
 <TR>
 <TD class=bgn>Comprobantes de Pago c/aut. de impresión (F. 806 u 816): </TD>
-<TD class=bg colSpan=3><BR>FACTURA <BR>NOTA DE CREDITO <BR>NOTA DE DEBITO <BR>GUIA DE REMISION - REMITENTE </TD></TR>
+<TD class=bg colSpan=3><BR>FACTURA <BR>BOLETA DE VENTA <BR>NOTA DE CREDITO <BR>NOTA DE DEBITO <BR>GUIA DE REMISION - REMITENTE <BR>GUIA DE REMISION - TRANSPORTISTA </TD></TR>
 <TR>
 <TD class=bgn>Padrones :</TD>
-<TD class=bg colSpan=3><!-- JRR - 20/09/2010 - Se añade cambio de Igor --><!--  -->NINGUNO </TD></TR></TBODY></TABLE></DIV></TD></TR></TBODY></TABLE><!-- 
+<TD class=bg colSpan=3>Incorporado al Régimen de Agentes de Retención de IGV (R.S.228-2012) a partir del 01/11/2012<BR><!-- JRR - 20/09/2010 - Se añade cambio de Igor --></TD></TR></TBODY></TABLE></DIV></TD></TR></TBODY></TABLE><!-- 
 <span id="div_estrep" style="display:block;">
 	<table border="0" cellpadding="2" cellspacing="2" width="100%" class="form-table">
 	    <tr>

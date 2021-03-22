@@ -3,36 +3,39 @@ CONSULTA RUC
 RESULTADO DE BÚSQUEDA:
 
 
-RUC: 20601751438 - INVERSIONES GAVIDIA S.A.C.
+RUC: 20509031500 - RENTING S.A.C.
 Tipo Contribuyente: SOCIEDAD ANONIMA CERRADA
 Nombre Comercial: -
-Fecha de Inscripción: 23/12/2016
+Fecha de Inscripción: 02/07/2004
 Estado: ACTIVO
 Condición:HABIDO 
-Domicilio Fiscal:AV. ALBORADA NRO. 1577 INT. 2 URB. AVEP 1RA ETAPA- PISO 2 (ALT. CDRA 14 MARIANO CORNEJO) LIMA - LIMA - LIMA
-Actividad(es) Económica(s): Principal - CIIU 28111 - FAB. PROD. METAL. USO ESTRUCTURAL. Secundaria 1 - CIIU 74218 - ACTIV.DE ARQUITECTURA E INGENIERIA 
-Comprobantes de Pago c/aut. de impresión (F. 806 u 816): FACTURA NOTA DE CREDITO NOTA DE DEBITO GUIA DE REMISION - REMITENTE 
-Sistema de Emisión Electrónica:  FACTURA PORTAL DESDE 12/01/2018 BOLETA PORTAL DESDE 31/12/2019 
-Afiliado al PLE desde: - 
-Padrones : NINGUNO 
-CONSULTA RUC: 20601751438 - INVERSIONES GAVIDIA S.A.C.
-RUC: 20601751438 - INVERSIONES GAVIDIA S.A.C.
+Domicilio Fiscal:AV. DOMINGO ORUE NRO. 230 LIMA - LIMA - SURQUILLO
+Actividad(es) Económica(s): Principal - CIIU 60230 - TRANSPORTE DE CARGA POR CARRETERA. Secundaria 1 - CIIU 71118 - ALQUILER EQUIPO TRANSPORTE V. TERRES. 
+Comprobantes de Pago c/aut. de impresión (F. 806 u 816): FACTURA BOLETA DE VENTA NOTA DE CREDITO NOTA DE DEBITO GUIA DE REMISION - REMITENTE GUIA DE REMISION - TRANSPORTISTA 
+Sistema de Emisión Electrónica:  DESDE LOS SISTEMAS DEL CONTRIBUYENTE. AUTORIZ DESDE 01/07/2016 
+Afiliado al PLE desde: 01/01/2013 
+Padrones : Incorporado al Régimen de Agentes de Retención de IGV (R.S.228-2012) a partir del 01/11/2012 
+CONSULTA RUC: 20509031500 - RENTING S.A.C.
+RUC: 20509031500 - RENTING S.A.C.
 Tipo Contribuyente: SOCIEDAD ANONIMA CERRADA
 Nombre Comercial: -
-Fecha de Inscripción: 23/12/2016Fecha Inicio de Actividades:23/12/2016
+Fecha de Inscripción: 02/07/2004Fecha Inicio de Actividades:02/07/2004
 Estado: ACTIVO
 Condición:HABIDO 
-Domicilio Fiscal:AV. ALBORADA NRO. 1577 INT. 2 URB. AVEP 1RA ETAPA- PISO 2 (ALT. CDRA 14 MARIANO CORNEJO) LIMA - LIMA - LIMA
+Domicilio Fiscal:AV. DOMINGO ORUE NRO. 230 LIMA - LIMA - SURQUILLO
 Teléfono(s):- 
-Actividad(es) Económica(s):Principal - 28111 - FAB. PROD. METAL. USO ESTRUCTURAL.
-Secundaria 1 - 74218 - ACTIV.DE ARQUITECTURA E INGENIERIA
+Actividad(es) Económica(s):Principal - 60230 - TRANSPORTE DE CARGA POR CARRETERA.
+Secundaria 1 - 71118 - ALQUILER EQUIPO TRANSPORTE V. TERRES.
 
 Comprobantes de Pago c/aut. de impresión (F. 806 u 816): 
 FACTURA 
+BOLETA DE VENTA 
 NOTA DE CREDITO 
 NOTA DE DEBITO 
 GUIA DE REMISION - REMITENTE 
-Padrones :NINGUNO 
+GUIA DE REMISION - TRANSPORTISTA 
+Padrones :Incorporado al Régimen de Agentes de Retención de IGV (R.S.228-2012) a partir del 01/11/2012
+
 
 
 

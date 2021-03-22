@@ -1,12 +1,12 @@
 *       *********************************************************
 *       *                                                         
-*       * 12/30/20             MENU_OS.MPR              11:59:52  
+*       * 11/02/2021            MENU_OS.MPR             16:05:01  
 *       *                                                         
 *       *********************************************************
 *       *                                                         
 *       * CYBERPOWER SAC PERU                                     
 *       *                                                         
-*       * Copyright (C) 2020 CYBERPOWER SAC PERU                  
+*       * Copyright (C) 2021 CYBERPOWER SAC PERU                  
 *       * CYBERPOWER SAC PERU                                     
 *       * LIMA, LIMA  32                                            
 *       * PERU                                              
@@ -27,9 +27,9 @@
 SET SYSMENU TO
 SET SYSMENU AUTOMATIC
 
-DEFINE PAD _5y10pprj5 OF _MSYSMENU PROMPT "Agregar Guia" COLOR SCHEME 3 ;
+DEFINE PAD _5z90yh143 OF _MSYSMENU PROMPT "Agregar Guia" COLOR SCHEME 3 ;
 	KEY ALT+A, ""
-DEFINE PAD _5y10pprj6 OF _MSYSMENU PROMPT "Anular Orden" COLOR SCHEME 3 ;
+DEFINE PAD _5z90yh144 OF _MSYSMENU PROMPT "Anular Orden" COLOR SCHEME 3 ;
 	KEY ALT+A, ""
-DEFINE PAD _5y10pprj7 OF _MSYSMENU PROMPT "Confirmar Orden" COLOR SCHEME 3 ;
+DEFINE PAD _5z90yh145 OF _MSYSMENU PROMPT "Confirmar Orden" COLOR SCHEME 3 ;
 	KEY ALT+C, ""
