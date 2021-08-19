@@ -1,0 +1,5 @@
+
+
+Error grave: código de excepción=C0000005 @ 07/07/21 05:46:20 PM. Archivo de registro de errores: D:\developer\serval_supervan\VFP9Rerr.log
+	Llamado desde -  form1.pageframe1.page2.command7.click line 0  { }
+	Llamado desde -  main_venta line 0  { d:\developer\serval_supervan\serval.exe}
