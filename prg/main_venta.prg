@@ -90,7 +90,7 @@ Vgn_opt=1
 conex=0
 
 *****VERSION
-Vgc_version='1.0.0.18'
+Vgc_version='1.0.0.19'
 ***VERSION
 
 *

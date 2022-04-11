@@ -4,16 +4,17 @@
 
 PARAMETERS RUTA 
 *SET STEP ON
+*RUTA = 'D:\developer\serval_supervan\pdf_fact\20100055237-01-F001-00007460.pdf'
 LOCAL loVFPsUpload,lcDirFile,lcRutaFile
 
 *!* LLAMADO A LA LIBRERIA DE FUNCIONES
-SET CLASSLIB TO lcAppDir+'Clase\vfps_upload' ADDITIVE 
+*!*	SET CLASSLIB TO lcAppDir+'Clase\vfps_upload' ADDITIVE 
 
-*!* CREACIÓN DEL OBJETO
+*!*	 CREACIÓN DEL OBJETO
 *!*	loVFPsUpload = CREATEOBJECT("vfps_upload")
 *!*	IF VARTYPE(loVFPsUpload) = "O"
 *!*	   *!* INGRESAR LA URL DONDE SE ALOJA NUESTRO ARCHIVO DE WS
-*!*	   loVFPsUpload.lcURL = "https://www.briane.pe/fe/vfpsupload.php"
+*!*	   loVFPsUpload.lcURL = "https://briane.pe/fe/vfpsupload.php"
 *!*	   *!* LLAMADO A LA VFPSUPLOAD
 *!*	   *!* PARAMETROS 
 *!*	   *!* lcDirFile  = NOMBRE DEL DIRECTORIO EN LA NUBE DONDE SE DESEA SUBIR EL ARCHIVO (sin espacios, tal como esta creado en su servidor)

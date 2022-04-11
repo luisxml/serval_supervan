@@ -1,5 +1,4 @@
 LPARAMETERS VlN_accion,Vlc_entidad,Vlc_descri,Vlc_motivo,vln_idmod
-SET STEP ON
 Vln_accion=Vln_accion
 Vlc_entidad=Vlc_entidad
 Vlc_descri=ALLTRIM(UPPER(Vlc_descri))
