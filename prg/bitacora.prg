@@ -3,7 +3,7 @@ Vln_accion=Vln_accion
 Vlc_entidad=Vlc_entidad
 Vlc_descri=ALLTRIM(UPPER(Vlc_descri))
 Vlc_motivo=ALLTRIM(UPPER(Vlc_motivo))
-SET STEP ON
+*ET STEP ON
 *MESSAGEBOX('bitacora1')
 IF conex > 0 	
 		lsql="INSERT INTO bitacora (identificacion,id_accion,entidad,descripcion,motivo,id_mod)"+;
